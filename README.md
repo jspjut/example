@@ -8,6 +8,8 @@ Example repository
 3. list items
 4. cool
 
+What if we want the list unordered?
+
 * this is an
 * unordered
 * list
