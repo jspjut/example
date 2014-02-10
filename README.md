@@ -29,9 +29,10 @@ This is a code block
 
 void main()
 {
+  // Say Hello world!
   std::cout << "Hello world!" << std::endl;
 }
 ```
 
-Hopefully this is a good enough example
+Hopefully this is a good enough example. More info can be found at the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
